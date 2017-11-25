@@ -1,0 +1,21 @@
+header {
+  background-color: #00796b;
+}
+body {
+  background-color: #f5f5f5;
+}
+h1 {
+  color: #fafafa;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px
+}
+h2 {
+  color: #ad1457;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px
+}
+p {
+  color: #212121;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px
+}

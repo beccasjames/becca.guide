@@ -1,15 +1,36 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Becca's Guide</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
+  <head>
+    <title>Becca's Guide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Quicksand" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="application/javascript">
 
-<header>
-<h1>Places</h1>
-</header>
-<p>In this space should be a description of what's on this website and the beginning of the list of places.</p>
+    $(document).ready(function(){
+        $.getJSON("locations.json", {}, function(data) {
+            var places = $('#places')
+            $.each(data, function(idx, item){
+                places.append('<h2>'+item.name+'</h2>');
+                places.append('<p>'+item.price+'</p>');
+                places.append('<p>'+item.location+'</p>');
+                places.append('<p>'+item.description+'</p>');
+            $.each(item.tags, function(idx, tag){
+                places.append('<p>'+tag+'</p>');
+            });
+            });
+        });
+    });
 
-</body>
+    </script>
+  </head>
+
+  <header>
+    <h1>Places</h1>
+  </header>
+
+  <body>
+    <div id="places"></div>
+  </body>
+
 </html>
