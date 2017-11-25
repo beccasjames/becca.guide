@@ -1,0 +1,66 @@
+[
+{
+  "id": "osteria-morini",
+  "name": "Osteria Morini",
+  "price": "$$",
+  "location": "301 Water St SE",
+  "description": "Solid Italian cuisine in a comfortable setting by the water in the Navy Yard. Great for larger parties or small intimate dinners. Their chocolate tortino is a must-order for molten chocolate cake lovers.",
+  "tags": ["food", "date-night", "groups", "italian", "navy-yard"]
+},
+{
+  "id": "momofuku-milk-bar",
+  "name": "Momofuku / Milk Bar",
+  "price": "$$",
+  "location": "1090 Eye St NW",
+  "description": "Famous for a reason. David Chang’s happy hour specials are excellent, especially if you’re looking to load up on pork buns and cocktails. Their small plates make this space great for groups of four to six. Don’t leave without a stop by Christina Tosi’s Milk Bar where their Crack Pie is a must-try—or breakfast for the morning after. Fans of Corn Flakes and milk will enjoy the cereal milk, an ode to the remains at the bottom of a cereal bowl.",
+  "tags": ["food", "happy-hour", "dessert", "date-night", "adventurous", "downtown"]
+},
+{
+  "id": "hanks-on-the-hill",
+  "name": "Hank’s On The Hill",
+  "price": "$$",
+  "location": "633 Pennsylvania Ave SE",
+  "description": "Dinner here is hard to beat for this stand-by seafood institution on Capitol Hill, but their happy hour specials for raw bar oysters at this location is key to feeling like you’ve gotten maximum value. Hank’s has locations in Alexandria and Dupont Circle as well.",
+  "tags": ["food", "happy-hour", "seafood", "capitol-hill"]
+},
+{
+  "id": "ambar",
+  "name": "Ambar",
+  "price": "$$",
+  "location": "523 8th St SE",
+  "description": "Balkan-style food, including a hefty menu of stateside-rare Rakia, meat, hearty vegetables, and fried bread. Their bottomless dinner or brunch menus are great for groups and turn out to be a good deal—go hungry! Don’t miss the sumadija kajmak with fried sourdough.",
+  "tags": ["food", "date-night", "groups", "adventurous", "capitol-hill", "barracks-row"]
+},
+{
+  "id": "roses-luxury",
+  "name": "Rose's Luxury",
+  "price": "$$$",
+  "location": "717 8th St SE",
+  "description": "Yes, there’s almost always a line out the door starting at 4pm in advance of Rose’s first seating at 5pm. Don’t let that sway you away from this Michelin Star experience. Either go on a rainy day, wait in line and get seated early, or swing by a bit later in the evening—it’s very likely you’ll get a table before the restaurant closes that night. However, you may need to grab a drink down the street or walk around the neighborhood while you wait. As for food, it’s very hard and maybe impossible to go wrong. Order a bottle of wine (their list is uniquely and simply fun) or cocktails, choose a few must-haves on the menu, and let your server take care of you. While the menu changes frequently, look forward to the bread service; it’s often an ode to a classic bread preparation. Favorite dishes of mine in the past have been fried oysters, cacio e pepe, pork sausage, or japanese fried chicken. Servers will often bring out a few extra dishes that you don’t order as courtesy. Ideal group size is 2-4 food lovers. Larger groups can make pre-fixe menu reservations.",
+  "tags": ["food", "date-night", "adventurous", "michelin", "capitol-hill", "barracks-row"]
+},
+{
+  "id": "pineapple-and-pearls",
+  "name": "Pineapple and Pearls",
+  "price": "$$$$",
+  "location": "715 8th St SE",
+  "description": "Epitome of ideal dining. From the moment you enter until you leave, the amazing staff will keep you comfortable. Drinks greet everyone at the door, followed by immediate seating and plates arriving at the table one by one. The dishes presented are delicate, clever, and detailed. Even details like bobby pins and mouthwash in the restrooms and a drink and snack sent home for breakfast round out a pampered evening. Reservations must be made in advance for this 12-15 course tasting menu experience. For a small party of 2, I recommend sitting in the bar which allows you to add on the drink pairing to your menu or order drinks à la carte.",
+  "tags": ["food", "special-occassion" "adventurous", "michelin", "capitol-hill", "barracks-row"]
+},
+{
+  "id": "masseria",
+  "name": "Masseria",
+  "price": "$$$",
+  "location": "1340 4th St NE",
+  "description": "Masseria’s location, tucked away among warehouses is just the first thing that will surprise you when visiting this one Michelin star hidden gem. At the entrance is a patio available for walk-ins looking for cocktails and small plates. A year-round pergola dining room sits in front of the restaurant. Italian and industrial accents combine for a beautifully intimate environment that focus on the buzzing open kitchen. With three menu options, 4-course, 5-course, or chef’s tasting, there’s options for multiple price points and appetites. Diners can pick any items from Masseria’s Italian coast-inspired menu whose highlights are seasonal beets and aged beef entrée.",
+  "tags": ["food", "date-night", "special-occassion", "italian", "michelin", "noma", "union-market"]
+},
+{
+  "id": "dukes-grocery",
+  "name": "Duke's Grocery",
+  "price": "$",
+  "location": "1513 17th St NW",
+  "description": "A blue-painted townhome produces the best burger in Washington. Often crowded for brunch or on Friday and Saturday nights, this restaurant is a great pick for small groups or a casual date night. The Proper Burger—a must order—has two beef patties, arugula, red onion aioli, tomatoes, chili sauce, and sweet pickles on a brioche bun. Get it just how it comes. Note: fries or salad do not come on the side. If very hungry, the truffle mac and cheese is a worthy accompaniment.",
+  "tags": ["food", "casual", "dupont-circle"]
+}
+]
